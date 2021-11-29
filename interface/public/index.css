@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Mark Pro';
+  src: url(./MARKPRO.OTF) format("truetype");
+}
+@font-face {
+  font-family: 'Mark Pro Black';
+  src: url(./MARKPROBLACK.OTF) format("truetype");
+}
+body {
+  margin: 0;
+  font-family: 'Mark Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
